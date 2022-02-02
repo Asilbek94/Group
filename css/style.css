@@ -40,3 +40,18 @@ ul{
     font-weight: 400;
     font-family: sans-serif;
 }
+.abror{
+    padding: 30px 0;
+    background-color: dodgerblue;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.abror__img{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
